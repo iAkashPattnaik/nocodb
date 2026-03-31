@@ -3,6 +3,6 @@
 # ──────────────────────────────────────────────
 FROM nocodb/nocodb:latest
 
-EXPOSE 8080
+EXPOSE 10000
 
 VOLUME ["/usr/app/data"]
